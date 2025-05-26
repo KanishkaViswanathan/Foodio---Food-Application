@@ -1,2 +1,2 @@
 Foodio is a Food Application made using Vite + React. 
-![Image](https://github.com/user-attachments/assets/711cb7af-c5a9-4535-b48d-dd2c2e6029db)
+![Screenshot (1135)](https://github.com/user-attachments/assets/757ac80a-80cd-454e-80fc-3f6b34404e08)
